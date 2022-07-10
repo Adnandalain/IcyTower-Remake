@@ -1,0 +1,167 @@
+﻿  Source.cpp
+F:\Aobz\Icy Tower GEN33\Source.cpp(144,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(216,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(331,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(332,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(340,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(341,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(342,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(343,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(513,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(514,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(537,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(586,30): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(588,30): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(657,46): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(658,44): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(661,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(661,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(673,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(686,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(693,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(731,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(731,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(768,32): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(792,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(878,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(914,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(924,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(925,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(937,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1008,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1014,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1018,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1070,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(1070,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Aobz\Icy Tower GEN33\Source.cpp(1102,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1414,13): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1422,13): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1483,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1483,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1559,102): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1568,33): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1569,33): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1611,25): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1859,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1862,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1865,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1954,34): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1957,33): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1960,34): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1963,33): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(1974,36): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(1978,36): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2072,49): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2073,54): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2074,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2078,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2079,56): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2080,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2096,71): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(2097,71): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(2125,36): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2136,36): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2144,36): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2237,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2238,56): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2239,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2243,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2244,57): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2245,62): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2262,71): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(2263,71): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Aobz\Icy Tower GEN33\Source.cpp(2288,36): warning C4305: '=': truncation from 'double' to 'float'
+F:\Aobz\Icy Tower GEN33\Source.cpp(2314,23): warning C4305: '+=': truncation from 'double' to 'float'
+  Icy Tower GEN33.vcxproj -> F:\Aobz\Icy Tower GEN33\Debug\Icy Tower GEN33.exe
